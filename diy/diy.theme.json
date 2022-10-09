@@ -1,7 +1,7 @@
 {
-    "title": "标题",
-    "desc": "描述",
-    "bgm": "/sound-disco.mp3",
+    "title": "熊了个熊",
+    "desc": "哈哈哈",
+    "bgm": "/besides-you.mp3",
     "dark": true,
     "background": "",
     "backgroundBlur": false,
@@ -10,61 +10,61 @@
     "icons": [
         {
             "name": "1",
-            "content": "/1.png",
+            "content": "/1.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "2",
-            "content": "/2.png",
+            "content": "/2.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "3",
-            "content": "/3.png",
+            "content": "/3.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "4",
-            "content": "/4.png",
+            "content": "/4.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "5",
-            "content": "/5.png",
+            "content": "/5.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "6",
-            "content": "/6.png",
+            "content": "/6.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "7",
-            "content": "/7.png",
+            "content": "/7.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "8",
-            "content": "/8.png",
+            "content": "/8.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "9",
-            "content": "/9.png",
+            "content": "/9.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         },
         {
             "name": "10",
-            "content": "/10.png",
+            "content": "/10.jpg",
             "clickSound": "button-click",
             "tripleSound": "triple"
         }
